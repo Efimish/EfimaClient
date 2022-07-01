@@ -2,22 +2,46 @@
 	{
 		"version": "1.0.0",
 		"changes": [
-			"change 1",
-			"change 2"
+			"Added OptiFine",
+			"Made Custom Main Menu"
 		]
 	},
 	{
 		"version": "1.0.1",
 		"changes": [
-			"change 3",
-			"change 4"
+			"Added Alt Manager",
+			"Added DiscordRPC",
+			"Added Event Manager"
 		]
 	},
 	{
 		"version": "1.0.2",
 		"changes": [
-			"change 5",
-			"change 6"
+			"Added Mod Manager",
+			"Added ToggleSprint"
+		]
+	},
+	{
+		"version": "1.0.3",
+		"changes": [
+			"Added Hud",
+			"Added FPS Mod",
+			"Added KeyStrokes"
+		]
+	},
+	{
+		"version": "1.0.4",
+		"changes": [
+			"Added CPS Mod",
+			"Added Coordinates Mod",
+			"Fixed ToggleSprint"
+		]
+	},
+	{
+		"version": "1.0.5",
+		"changes": [
+			"Fixed Main Menu",
+			"Added Changelog"
 		]
 	}
 ]
