@@ -1,26 +1,23 @@
 [
-    {
-        "changenum": 1,
-        "change": "Change #1"
-    },
-    {
-        "changenum": 2,
-        "change": "Change #2"
-    },
-    {
-        "changenum": 3,
-        "change": "Change #3"
-    },
-    {
-        "changenum": 4,
-        "change": "Change #4..."
-    },
-    {
-        "changenum": 5,
-        "change": "Change #5....."
-    },
-    {
-        "changenum": 6,
-        "change": "Change #6 lol"
-    }
+	{
+		"version": "1.0.0",
+		"changes": [
+			"change 1",
+			"change 2"
+		]
+	},
+	{
+		"version": "1.0.1",
+		"changes": [
+			"change 3",
+			"change 4"
+		]
+	},
+	{
+		"version": "1.0.2",
+		"changes": [
+			"change 5",
+			"change 6"
+		]
+	}
 ]
