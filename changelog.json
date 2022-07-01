@@ -2,6 +2,7 @@
 	{
 		"version": "1.0.0",
 		"changes": [
+			"Started Developing...",
 			"Added OptiFine",
 			"Made Custom Main Menu"
 		]
@@ -38,7 +39,7 @@
 		]
 	},
 	{
-		"version": "1.0.5",
+		"version": "1.1.0",
 		"changes": [
 			"Fixed Main Menu",
 			"Added Changelog"
