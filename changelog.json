@@ -44,5 +44,20 @@
 			"Fixed Main Menu",
 			"Added Changelog"
 		]
+	}, {
+		"version": "1.1.1",
+		"changes": [
+			"Added cool animations",
+			"HUD editor can now be opened",
+			"from main menu"
+
+		]
+	}, {
+		"version": "1.2.0",
+		"changes": [
+			"Rewritten the whole client structure",
+			"Added mod parameters",
+			"Mods save position and parameters"
+		]
 	}
 ]
