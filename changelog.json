@@ -44,20 +44,45 @@
 			"Fixed Main Menu",
 			"Added Changelog"
 		]
-	}, {
+	},
+	{
 		"version": "1.1.1",
 		"changes": [
 			"Added cool animations",
 			"HUD editor can now be opened",
 			"from main menu"
-
 		]
-	}, {
+	},
+	{
 		"version": "1.2.0",
 		"changes": [
 			"Rewritten the whole client structure",
 			"Added mod parameters",
 			"Mods save position and parameters"
+		]
+	},
+	{
+		"version": "1.2.1",
+		"changes": [
+			"Added Zoom Addons",
+			"Fixed ToggleSprint",
+			"Added KeyStrokes CPS"
+		]
+	},
+	{
+		"version": "1.2.2",
+		"changes": [
+			"Added Armor Status",
+			"Added FullBright",
+			"Moved all \"Settings\" to mod system"
+		]
+	},
+	{
+		"version": "1.2.3",
+		"changes": [
+			"Added Perspetive mod",
+			"Mods can be now sorted",
+			"in Click GUI"
 		]
 	}
 ]
