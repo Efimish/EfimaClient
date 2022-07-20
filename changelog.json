@@ -84,5 +84,13 @@
 			"Mods can be now sorted",
 			"in Click GUI"
 		]
+	},
+	{
+		"version": "1.2.4",
+		"changes": [
+			"Fixed Armor Status",
+			"Added .obj files renderer",
+			"Added Cosmo bandana cosmetics"
+		]
 	}
 ]
